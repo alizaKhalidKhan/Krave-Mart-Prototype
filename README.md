@@ -1,10 +1,10 @@
 # Krave-Mart-Prototype
-For my assignment, I improved the app with:
+For my university assignment, I revamped the app to boost usability with these exciting updates:
 
-- **No More Popups:** Removed annoying address popups.
-- **Chatbot Help:** Added a chatbot for post-order support.
-- **Neat Categories:** Streamlined category organization.
-- **Download Receipts:** Added receipt downloads.
-- **Better Tracking:** Enhanced order tracking.
+- **Bye-Bye, Annoying Popups:** Banned the relentless address popups for a smoother experience.
+- **Meet Your New Assistant:** Added a handy chatbot to handle all your post-order queries.
+- **Categories Reimagined:** Redesigned categories for a cleaner, more intuitive navigation.
+- **Receipt at Your Fingertips:** Added an easy option to download your order receipts.
+- **Track Orders Like a Pro:** Enhanced the order tracking system for a more organized view.
 
-These changes make the app smoother and more user-friendly!
+These enhancements are all about making your app experience smoother, smarter, and more enjoyable!
